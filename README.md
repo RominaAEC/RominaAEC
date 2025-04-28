@@ -1,4 +1,6 @@
-# Hi there, I'm Romina! 👋
+<h1 align="center">
+  Hi there, I'm Romina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 I'm a **UX/UI Designer and Front-End Developer** blending creativity and code to craft seamless digital experiences.  
 With a background in **Global Business and Digital Arts** (University of Waterloo) and a **Software Engineering diploma** (BrainStation), I bring a unique mix of design, technical, and business insights to every project I work on.
